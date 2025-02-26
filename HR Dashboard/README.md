@@ -10,6 +10,9 @@ The **HR Dashboard** is a Tableau visualization designed to provide key insights
 - **Download Options**: Includes options to export reports as PDFs or images.
 - **User-Friendly Design**: Intuitive visuals with background images and tooltips for better user experience.
 
+- ![HR Overview](https://github.com/RealGachoka/Tableau-Projects/blob/main/HR%20Dashboard/Images/Screenshot%202025-02-26%20105610.png?raw=true)
+- ![Employee List](https://github.com/RealGachoka/Tableau-Projects/blob/main/HR%20Dashboard/Images/Screenshot%202025-02-26%20105503.png?raw=true)
+
 ## File Structure
 - **HR Dashboard.twbx** - The main Tableau workbook file containing the dashboard structure and visualizations.
 - **HumanResources.csv** - The extracted data source used for visualization.
