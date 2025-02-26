@@ -1,4 +1,3 @@
-```markdown
 # My Tableau Projects
 
 ## Contents
@@ -15,4 +14,3 @@
 - Use the filters in the dashboard to explore the data.
 - Hover over charts for more detailed insights.
 - Some dashboards may require specific versions of Tableau to open properly.
-```
